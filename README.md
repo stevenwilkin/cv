@@ -11,6 +11,18 @@ My objective is to enhance my skill set, use interesting technologies and in doi
 ## Experience
 
 
+### June 2009 - February 2010	Developer, Rehab Studio
+<http://rehabstudio.com/>
+
+
+* creation and maintenance of Linux/Apache/MySQL/PHP sites using CakePHP and jQuery frameworks, XHTML and CSS
+* administration of Redhat Enterprise Linux and Debian servers
+* task automation with Bash, Perl and Ruby scripts
+* use of Amazon Web Services (AWS) including Elastic Cloud Compute (EC2), Elastic Load Balancing, Elastic Block Store and Simple Storage Service (S3)
+* instigated agency-wide use of version control with subversion
+* mentored staff on technical issues and best-practices
+
+
 ### June 2008 - March 2009	Web/Application Developer, Creative Online Media
 <http://creativeonlinemedia.com/>
 
