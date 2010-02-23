@@ -68,7 +68,7 @@ My objective is to enhance my skill set, use interesting technologies and in doi
 * added additional features and fixed problems with an associated site developed with VisualBasic/.Net and MS SQL Server 2003
 * contributed code to an in-house application used to administer grants in the Community Volunteering Scheme
 * managed the deployment of new desktop systems using the Microsoft Sysprep tools and Symantec Ghost client & GhostCast server
-* developed a Windows desktop application to manage the agency's list of internal extension and direct dial numbers using C#/.Net and SQL Server 2005, replacing the existing manual solution
+* developed a Windows desktop application to manage the agency's list of internal extension and direct dial numbers using C#/.Net and SQL Server 2005
 * replaced inadequate router with Linux-based solution constructed from disused equipment
 * extended agency network by laying additional CAT5e cabling
 
