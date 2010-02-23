@@ -3,7 +3,7 @@
 	73c Burmah Street, Belfast, BT7 3AP
 	phone: +447708748981
 	email: steve@stevenwilkin.com
-	web:   stevenwilkin.com
+	web:   http://stevenwilkin.com
 
 
 My objective is to enhance my skill set, use interesting technologies and in doing so create something of practical use and lasting value.
