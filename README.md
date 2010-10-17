@@ -11,6 +11,17 @@ My objective is to enhance my skill set, use interesting technologies and in doi
 ## Experience
 
 
+### April 2010 - October 2010	Developer, BT
+<http://bt.com/>
+
+
+* contracted to deliver application development in a touch-screen mobile Linux environment
+* GUI applications developed with JavaScript running on the SpiderMonkey interpreter under custom middleware
+* systems-level functionality exposed through C plugins, persistance facilitated with SQLite
+* participated in Scrum project management with daily standups, 2-week sprints, demos and retrospectives
+* developed against quality control (HP Quality Center) and bug tracking systems (Bugzilla)
+
+
 ### June 2009 - February 2010	Developer, Rehab Studio
 <http://rehabstudio.com/>
 
