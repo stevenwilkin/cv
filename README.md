@@ -11,6 +11,16 @@ My objective is to enhance my skill set, use interesting technologies and in doi
 ## Experience
 
 
+### August 2007 - Present	Freelance Developer, stevenwilkin.com
+<http://stevenwilkin.com/>
+
+
+* web development and maintenance for local SMEs with Ruby/Rails, PHP/CakePHP and JavaScript/jQuery
+* Linux system administration (Fedora, CentOS, Debian)
+* task automation with Bash and Ruby scripts
+* development of open source and hobbyist projects focused on Ruby, Rails and Sinatra (http://github.com/stevenwilkin, http://stevenwilkin.com/projects)
+
+
 ### April 2010 - October 2010	Developer, BT
 <http://bt.com/>
 
