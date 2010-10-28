@@ -26,9 +26,9 @@ My objective is to enhance my skill set, use interesting technologies and in doi
 
 
 * contracted to deliver application development in a touch-screen mobile Linux environment
-* developed GUI applications with JavaScript running on the SpiderMonkey interpreter under custom middleware
-* exposed systems-level functionality with plugins developed in C, facilitated persistance with SQLite
-* participated in Scrum project management with daily standups, 2-week sprints, demos and retrospectives
+* developed GUI applications with JavaScript running on the SpiderMonkey interpreter
+* exposed systems-level functionality with C plugins, facilitated persistance with SQLite
+* participated in Scrum project management with standups, sprints, demos & retrospectives
 * developed against quality control (HP Quality Center) and bug tracking systems (Bugzilla)
 
 
