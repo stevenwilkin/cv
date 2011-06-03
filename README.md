@@ -128,6 +128,6 @@ Dissertation Title: "An Object-Based Approach to Dialogue Modelling"
 
 ## Hobbies & Interests
 
-I enjoy lifting weights, investing, dancing and reading biographies.
+I enjoy lifting weights, hill walking, investing and reading biographies.
 
 References available upon request
