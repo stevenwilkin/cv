@@ -38,6 +38,14 @@ My objective is to enhance my skill set, use interesting technologies and in doi
 * unit testing with RSpec, persistance with MySQL, source control with Git, some statistical analysis with R
 
 
+### October 2010 - January 2011	Developer, Crafty Devil
+<http://craftydevil.co.uk/>
+
+* contracted to deliver web application development
+* PHP scripting language with CodeIgniter framework and JavaScript/jQuery 
+* MySQL for persistence and hosted on Linux (CentOS)
+
+
 ### April 2010 - October 2010	Developer, BT
 <http://bt.com/>
 
