@@ -10,11 +10,12 @@ My objective is to enhance my skill set, use interesting technologies and in doi
 
 ## Experience
 
-### January 2011 - Present	Developer, iQ Content (Dublin)
+### January 2011 - September 2011	Developer, iQ Content (Dublin)
 <http://iqcontent.com/>
 
 * contracted to develop a business intelligence application built on top of Google Analytics
-* development undertaken with Ruby on OS X & deployed onto Linux (Debian)
+* API access and data manipulation undertaken with Ruby
+* web interface developed with Rails framework, Highcharts library used for charting
 * unit testing with RSpec, persistance with MySQL, source control with Git, some statistical analysis with R
 
 
