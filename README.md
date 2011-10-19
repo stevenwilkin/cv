@@ -10,16 +10,7 @@ My objective is to enhance my skill set, use interesting technologies and in doi
 
 ## Experience
 
-### January 2011 - September 2011	Developer, iQ Content (Dublin)
-<http://iqcontent.com/>
-
-* contracted to develop a business intelligence application built on top of Google Analytics
-* API access and data manipulation undertaken with Ruby
-* web interface developed with Rails framework, Highcharts library used for charting
-* unit testing with RSpec, persistance with MySQL, source control with Git, some statistical analysis with R
-
-
-### August 2007 - Present	Freelance Developer, stevenwilkin.com
+### August 2007 - Present	Independent Contractor and Software Developer, stevenwilkin.com
 <http://stevenwilkin.com/>
 
 
@@ -27,6 +18,15 @@ My objective is to enhance my skill set, use interesting technologies and in doi
 * Linux system administration (Fedora, CentOS, Debian)
 * task automation with Bash and Ruby scripts
 * development of open source and hobbyist projects focused on Ruby, Rails and Sinatra (<http://github.com/stevenwilkin>, <http://stevenwilkin.com/projects>)
+
+
+### January 2011 - September 2011	Developer, iQ Content (Dublin)
+<http://iqcontent.com/>
+
+* contracted to develop a business intelligence application built on top of Google Analytics
+* API access and data manipulation undertaken with Ruby
+* web interface developed with Rails framework, Highcharts library used for charting
+* unit testing with RSpec, persistance with MySQL, source control with Git, some statistical analysis with R
 
 
 ### April 2010 - October 2010	Developer, BT
