@@ -10,6 +10,15 @@ My objective is to enhance my skill set, use interesting technologies and in doi
 
 ## Experience
 
+### September 2011 - Present		Developer, Vigill (Dublin)
+<http://vigill.com/>
+
+* contracted to deliver web application and API development
+* Ruby scripting language and Rails and Sinatra frameworks
+* MongoDB and Redis non-relational databases (NoSQL)
+* Test Driven Development (TDD) using RSpec and Test::Unit
+
+
 ### August 2007 - Present	Independent Contractor and Software Developer, stevenwilkin.com
 <http://stevenwilkin.com/>
 
