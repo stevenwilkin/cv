@@ -1,17 +1,12 @@
 # Steven Wilkin
 
-	73c Burmah Street, Belfast, BT7 3AP
-	phone: +447708748981
 	email: steve@stevenwilkin.com
 	web:   http://stevenwilkin.com
 
-
-My objective is to enhance my skill set, use interesting technologies and in doing so create something of practical use and lasting value.
-
 ## Experience
 
-### September 2011 - Present		Developer, Vigill (Dublin)
-<http://vigill.com/>
+### September 2011 - Present		Developer (contract), Converser
+<http://converser.io/>
 
 * contracted to deliver web application and API development
 * Ruby scripting language and Rails and Sinatra frameworks
@@ -29,7 +24,7 @@ My objective is to enhance my skill set, use interesting technologies and in doi
 * development of open source and hobbyist projects focused on Ruby, Rails and Sinatra (<http://github.com/stevenwilkin>, <http://stevenwilkin.com/projects>)
 
 
-### January 2011 - September 2011	Developer, iQ Content (Dublin)
+### January 2011 - September 2011	Developer (contract), iQ Content
 <http://iqcontent.com/>
 
 * contracted to develop a business intelligence application built on top of Google Analytics
@@ -38,7 +33,7 @@ My objective is to enhance my skill set, use interesting technologies and in doi
 * unit testing with RSpec, persistance with MySQL, source control with Git, some statistical analysis with R
 
 
-### November 2010 - January 2011	Developer, Crafty Devil
+### November 2010 - January 2011	Developer (contract), Crafty Devil
 <http://craftydevil.co.uk/>
 
 * contracted to deliver web application development
@@ -46,7 +41,7 @@ My objective is to enhance my skill set, use interesting technologies and in doi
 * MySQL for persistence and hosted on Linux (CentOS)
 
 
-### April 2010 - October 2010	Developer, BT
+### April 2010 - October 2010	Developer (contract), BT
 <http://bt.com/>
 
 
