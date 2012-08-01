@@ -5,15 +5,6 @@
 
 ## Experience
 
-### September 2011 - Present		Developer (contract), Converser
-<http://converser.io/>
-
-* contracted to deliver web application and API development
-* Ruby scripting language and Rails and Sinatra frameworks
-* MongoDB and Redis non-relational databases (NoSQL)
-* Test Driven Development (TDD) using RSpec and Test::Unit
-
-
 ### August 2007 - Present	Independent Contractor and Software Developer, stevenwilkin.com
 <http://stevenwilkin.com/>
 
@@ -22,6 +13,15 @@
 * Linux system administration (Fedora, CentOS, Debian)
 * task automation with Bash and Ruby scripts
 * development of open source and hobbyist projects focused on Ruby, Rails and Sinatra (<http://github.com/stevenwilkin>, <http://stevenwilkin.com/projects>)
+
+
+### September 2011 - July 2012	Developer (contract), Converser
+<http://converser.io/>
+
+* contracted to deliver web application and API development
+* Ruby scripting language and Rails and Sinatra frameworks
+* MongoDB and Redis non-relational databases (NoSQL)
+* Test Driven Development (TDD) using RSpec and Test::Unit
 
 
 ### January 2011 - September 2011	Developer (contract), iQ Content
