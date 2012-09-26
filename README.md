@@ -1,18 +1,20 @@
 # Steven Wilkin
 
-	email: steve@stevenwilkin.com
-	web:   http://stevenwilkin.com
+	email:  steve@stevenwilkin.com
+	web:    http://stevenwilkin.com
+	github: http://github.com/stevenwilkin
+	blog:   http://sickbiscuit.com/blog/
 
 ## Experience
 
-### August 2007 - Present	Independent Contractor and Software Developer, stevenwilkin.com
-<http://stevenwilkin.com/>
+### August 2012 - Present	Developer (contract), MyDrive Solutions
+<http://mydrivesolutions.com/>
 
-
-* web development and maintenance for local SMEs with Ruby/Rails, PHP/CakePHP and JavaScript/jQuery
-* Linux system administration (Fedora, CentOS, Debian)
-* task automation with Bash and Ruby scripts
-* development of open source and hobbyist projects focused on Ruby, Rails and Sinatra (<http://github.com/stevenwilkin>, <http://stevenwilkin.com/projects>)
+* contracted to deliver web application and API development
+* Ruby scripting language and Rails, Sinatra, Grape and Goliath frameworks
+* Postgres, MongoDB and Redis databases
+* Test and Behaviour Driven Development (TDD/BDD) using RSpec, Cucumber and Steak
+* some iOS and Objective-C development for mobile API client
 
 
 ### September 2011 - July 2012	Developer (contract), Converser
