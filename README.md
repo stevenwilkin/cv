@@ -78,13 +78,9 @@
 <http://www.citi.com/>
 
 
-* provided second level support to various real-time, high volume, mission-critical messaging systems used throughout the enterprise
-* acquired working knowledge of many TIBCO applications (TIC, EMS, Rendezvous (RV), RVRD) and proprietary Java web-services
-* hardware running Solaris and RedHat Enterprise Linux located in 4 data-centres across London and North America
-* centralised job scheduling with Unicenter AutoSys and process monitoring via ITRS NetAgent
-* some exposure to Sybase ASE and BEA WebLogic
-* played a fundamental role in documenting these largely undocumented systems and processes on a wiki
-* out of hours, on-call support
+* operational support to various real-time, high volume, distributed messaging systems
+* working knowledge of TIBCO applications (TIC, EMS, RV, RVRD), Sybase ASE and BEA WebLogic
+* centralised job scheduling and process monitoring of hardware running Solaris and RedHat Enterprise Linux
 
 
 ### February 2007 - August 2007	Developer, Mac-Sys Ltd
