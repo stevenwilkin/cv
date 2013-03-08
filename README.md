@@ -71,13 +71,9 @@
 <http://creativeonlinemedia.com/>
 
 
-* maintained back catalogue of C#/.Net, Classic ASP and PHP sites
-* MS SQL Server 2005 & MySQL databases, XHTML markup and CSS styling
-* used the CakePHP framework for greenfield development on a number of projects
-* considerable use of Javascript & AJAX techniques, mainly jQuery with some Prototype and MooTools
-* instigated use of version control with Subversion
-* prompted move towards Linux hosting
-* oversaw all technical issues within the agency and mentored 3 junior staff in technical matters
+* web development using C#/.Net, ASP/VBScript and PHP/CakePHP
+* MS SQL Server 2005 & MySQL databases
+* considerable JavaScript using jQuery, Prototype and MooTools frameworks
 
 
 ### August 2007 - June 2008	Programmer Analyst, Citi
