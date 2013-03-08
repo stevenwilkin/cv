@@ -10,8 +10,7 @@
 ### August 2012 - February 2013	Developer (contract), MyDrive Solutions
 <http://mydrivesolutions.com/>
 
-* contracted to deliver web application and API development
-* Ruby scripting language and Rails and Sinatra frameworks
+* web and API development with Ruby, Rails and Sinatra
 * Postgres, MongoDB and Redis databases
 * Test and Behaviour Driven Development (TDD/BDD) using RSpec, Cucumber and Steak
 * CocoaTouch and Objective-C development for iOS app, testing with OCUnit and OCMock
