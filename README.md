@@ -39,9 +39,7 @@
 ### November 2010 - January 2011	Developer (contract), Crafty Devil
 <http://craftydevil.co.uk/>
 
-* contracted to deliver web application development
-* PHP scripting language with CodeIgniter framework and JavaScript/jQuery 
-* MySQL for persistence and hosted on Linux (CentOS)
+* web development with PHP/CodeIgniter, JavaScript/jQuery and MySQL
 
 
 ### April 2010 - October 2010	Developer (contract), BT
