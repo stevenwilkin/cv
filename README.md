@@ -30,10 +30,9 @@
 ### January 2011 - September 2011	Developer (contract), iQ Content
 <http://iqcontent.com/>
 
-* contracted to develop a business intelligence application built on top of Google Analytics
-* API access and data manipulation undertaken with Ruby
-* web interface developed with Rails framework, Highcharts library used for charting
-* unit testing with RSpec, persistance with MySQL, source control with Git, some statistical analysis with R
+* business intelligence development on top of Google Analytics
+* Ruby, Rails, MySQL and JavaScript/jQuery/Highcharts
+* testing with RSpec and some statistical analysis with R
 
 
 ### November 2010 - January 2011	Developer (contract), Crafty Devil
