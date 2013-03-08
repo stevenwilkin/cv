@@ -59,12 +59,9 @@
 <http://rehabstudio.com/>
 
 
-* creation and maintenance of Linux/Apache/MySQL/PHP sites using CakePHP and jQuery frameworks, XHTML and CSS
-* administration of Redhat Enterprise Linux and Debian servers
+* web development with PHP/CakePHP, JavaScript/jQuery and MySQL
+* administration of Redhat and Debian servers using dedicated hardware and on Amazon Web Services
 * task automation with Bash, Perl and Ruby scripts
-* use of Amazon Web Services (AWS) including Elastic Cloud Compute (EC2), Elastic Load Balancing, Elastic Block Store and Simple Storage Service (S3)
-* instigated agency-wide use of version control with subversion
-* mentored staff on technical issues and best-practices
 
 
 ### June 2008 - March 2009	Web/Application Developer, Creative Online Media
