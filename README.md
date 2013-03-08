@@ -92,15 +92,13 @@
 * played a fundamental role in documenting these largely undocumented systems and processes on a wiki
 * out of hours, on-call support
 
+
 ### February 2007 - August 2007	Developer, Mac-Sys Ltd
 <http://mac-sys.co.uk/>
 
-* replaced the existing paperwork system with a web application which tracks the entire life-cycle of a repair, manages customer details and produces reports
-* MySQL database and PHP scripting, building on top of the CakePHP framework
-* some Javascript and AJAX via the Prototype library, XHTML markup and CSS styling
-* version control with Subversion
-* day-to-day work carried out using an Apple MacBook and I've used a Mac since
-* researched Objective-C and the Cocoa framework to provide a possible rich desktop client
+
+* developed a custom business process management system
+* PHP/CakePHP, MySQL and JavaScript/Prototype
 
 ### October 2004 - February 2007	IT Technician, Volunteer Development Agency
 <http://www.volunteering-ni.org/>
