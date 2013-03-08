@@ -69,6 +69,7 @@
 
 
 * web development using C#/.Net, ASP/VBScript and PHP/CakePHP
+* task automation with Ruby
 * MS SQL Server 2005 & MySQL databases
 * considerable JavaScript using jQuery, Prototype and MooTools frameworks
 
