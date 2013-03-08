@@ -7,7 +7,7 @@
 
 ## Experience
 
-### August 2012 - Present	Developer (contract), MyDrive Solutions
+### August 2012 - February 2013	Developer (contract), MyDrive Solutions
 <http://mydrivesolutions.com/>
 
 * contracted to deliver web application and API development
