@@ -21,8 +21,7 @@
 ### September 2011 - July 2012	Developer (contract), Converser
 <http://converser.io/>
 
-* contracted to deliver web application and API development
-* Ruby scripting language and Rails and Sinatra frameworks
+* web and API development with Ruby, Rails and Sinatra
 * MongoDB and Redis non-relational databases (NoSQL)
 * Test Driven Development (TDD) using RSpec and Test::Unit
 
