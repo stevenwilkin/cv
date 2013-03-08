@@ -43,11 +43,8 @@
 <http://bt.com/>
 
 
-* contracted to deliver application development in a touch-screen mobile Linux environment
-* developed GUI applications with JavaScript running on the SpiderMonkey interpreter
-* exposed systems-level functionality with C plugins, facilitated persistance with SQLite
-* participated in Scrum project management with standups, sprints, demos & retrospectives
-* developed against quality control (HP Quality Center) and bug tracking systems (Bugzilla)
+* application development in a touch-screen mobile Linux environment with embedded JavaScript
+* SpiderMonkey interpreter, SQLite, exposed systems-level functionality with C plugins
 
 
 ### June 2009 - February 2010	Developer, Rehab Studio
