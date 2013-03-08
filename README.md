@@ -87,9 +87,9 @@
 <http://www.volunteering-ni.org/>
 
 
-* developed custom desktop applications with C#/.Net/WinForms and SQL Server 2005
-* developed web and intranet applications with ASP/VBScript, VisualBasic/.Net and SQL Server 2000/2003
-* managed a Windows Server 2003 domain and provided support for Windows 98, 2000 & XP clients
+* custom desktop applications using C#/.Net/WinForms and SQL Server 2005
+* web/intranet applications using ASP/VBScript, VisualBasic/.Net andSQL Server 2000/2003
+* managed a Windows Server 2003 domain and supported Windows 98/2000/XP clients
 
 
 ## Education
