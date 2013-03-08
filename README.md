@@ -100,19 +100,14 @@
 * developed a custom business process management system
 * PHP/CakePHP, MySQL and JavaScript/Prototype
 
+
 ### October 2004 - February 2007	IT Technician, Volunteer Development Agency
 <http://www.volunteering-ni.org/>
 
 
+* developed custom desktop applications with C#/.Net/WinForms and SQL Server 2005
+* developed web and intranet applications with ASP/VBScript, VisualBasic/.Net and SQL Server 2000/2003
 * managed a Windows Server 2003 domain and provided support for Windows 98, 2000 & XP clients
-* acquired working knowledge of Active Directory and Exchange Server 2003 with some exposure to Veritas backup solutions
-* maintained agency website which was developed with ASP/VBScript and SQL Server 2000
-* added additional features and fixed problems with an associated site developed with VisualBasic/.Net and MS SQL Server 2003
-* contributed code to an in-house application used to administer grants in the Community Volunteering Scheme
-* managed the deployment of new desktop systems using the Microsoft Sysprep tools and Symantec Ghost client & GhostCast server
-* developed a Windows desktop application to manage the agency's list of internal extension and direct dial numbers using C#/.Net and SQL Server 2005
-* replaced inadequate router with Linux-based solution constructed from disused equipment
-* extended agency network by laying additional CAT5e cabling
 
 
 ## Education
