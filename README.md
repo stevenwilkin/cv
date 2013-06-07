@@ -123,10 +123,3 @@ Dissertation Title: "An Object-Based Approach to Dialogue Modelling"
 	French			A*		Geography		A
 	Biology			A		German			A
 	Art				B
-
-
-## Hobbies & Interests
-
-I enjoy lifting weights, hill walking, investing and reading biographies.
-
-References available upon request
