@@ -7,6 +7,14 @@
 
 ## Experience
 
+### April 2013 - Present	Software Engineer (contract), Global Personals
+<http://globalpersonals.co.uk/>
+
+* web development with Ruby/Rails/Sinatra and JavaScript/CoffeeScript/jQuery
+* MySQL and Redis databases, RabbitMQ messaging
+* Test Driven Development (TDD) using RSpec and Test::Unit
+
+
 ### August 2012 - February 2013	Developer (contract), MyDrive Solutions
 <http://mydrivesolutions.com/>
 
