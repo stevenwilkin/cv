@@ -79,8 +79,8 @@
 
 
 * operational support to various real-time, high volume, distributed messaging systems
-* working knowledge of TIBCO applications (TIC, EMS, RV, RVRD), Sybase ASE and BEA WebLogic
-* centralised job scheduling and process monitoring of hardware running Solaris and RedHat Enterprise Linux
+* working knowledge of TIBCO TIC, EMS, RV and RVRD, Sybase ASE and BEA WebLogic
+* centralised job scheduling and process monitoring on Solaris and RedHat Enterprise Linux
 
 
 ### February 2007 - August 2007	Developer, Mac-Sys Ltd
