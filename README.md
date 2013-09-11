@@ -30,7 +30,7 @@
 * Postgres, MongoDB and Redis databases
 * Test and Behaviour Driven Development (TDD/BDD) using RSpec, Cucumber and Steak
 * CocoaTouch and Objective-C development for iOS app, testing with OCUnit and OCMock
-* setup, configured and wrote build scripts for Continuous Integration (CI) of Android and iOS apps using Jenkins
+* introduced Continuous Integration (CI) of Android and iOS apps using Jenkins
 
 
 ### September 2011 - July 2012	Developer (contract), Converser
@@ -59,7 +59,7 @@
 <http://bt.com/>
 
 
-* application development in a touch-screen mobile Linux environment with embedded JavaScript
+* application development in a touch-screen mobile environment with embedded JavaScript
 * SpiderMonkey interpreter, SQLite, exposed systems-level functionality with C plugins
 
 
