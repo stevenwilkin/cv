@@ -7,7 +7,15 @@
 
 ## Experience
 
-### April 2013 - Present	Software Engineer (contract), Global Personals
+### July 2013 - Present	Senior Ruby on Rails Developer (contract), Econsultancy
+<http://econsultancy.com>
+
+* web development with Ruby/Rails and JavaScript/jQuery
+* MySQL and Redis databases, memcached and sphinx
+* Test and Behaviour Driven Development using RSpec and Cucumber
+
+
+### April 2013 - July 2013	Software Engineer (contract), Global Personals
 <http://globalpersonals.co.uk/>
 
 * web development with Ruby/Rails/Sinatra and JavaScript/CoffeeScript/jQuery
