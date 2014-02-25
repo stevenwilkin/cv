@@ -16,9 +16,7 @@
 ### July 2013 - February 2014	Senior Ruby on Rails Developer (contract), Econsultancy
 <http://econsultancy.com>
 
-* web development with Ruby/Rails and JavaScript/jQuery
-* MySQL and Redis databases, memcached and sphinx
-* Test and Behaviour Driven Development using RSpec and Cucumber
+* Ruby/Rails, JavaScript/jQuery, MySQL/Redis/memcached/sphinx, RSpec/Cucumber
 
 
 ### April 2013 - July 2013	Software Engineer (contract), Global Personals
