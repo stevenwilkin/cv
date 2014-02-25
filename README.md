@@ -40,9 +40,7 @@
 ### September 2011 - July 2012	Developer (contract), Converser
 <http://converser.io/>
 
-* web and API development with Ruby, Rails and Sinatra
-* MongoDB and Redis non-relational databases (NoSQL)
-* Test Driven Development (TDD) using RSpec and Test::Unit
+* Ruby/Rails/Sinatra, MongoDB/Redis, RSpec/Test::Unit
 
 
 ### January 2011 - September 2011	Developer (contract), iQ Content
