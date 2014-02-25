@@ -32,9 +32,7 @@
 ### August 2012 - February 2013	Developer (contract), MyDrive Solutions
 <http://mydrivesolutions.com/>
 
-* web and API development with Ruby, Rails and Sinatra
-* Postgres, MongoDB and Redis databases
-* Test and Behaviour Driven Development (TDD/BDD) using RSpec, Cucumber and Steak
+* Ruby/Rails/Sinatra, Postgres/MongoDB/Redis, RSpec/Cucumber/Steak
 * CocoaTouch and Objective-C development for iOS app, testing with OCUnit and OCMock
 * introduced Continuous Integration (CI) of Android and iOS apps using Jenkins
 
