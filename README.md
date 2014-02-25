@@ -24,8 +24,7 @@
 ### April 2013 - July 2013	Software Engineer (contract), Global Personals
 <http://globalpersonals.co.uk/>
 
-* web development with Ruby/Rails/Sinatra and JavaScript/CoffeeScript/jQuery
-* MySQL and Redis databases, RabbitMQ messaging
+* Ruby/Rails/Sinatra, JavaScript/CoffeeScript/jQuery, MySQL/Redis/RabbitMQ
 * Test Driven Development (TDD) using RSpec and Test::Unit
 
 
