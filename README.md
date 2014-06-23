@@ -10,13 +10,13 @@
 ### February 2014 - Present	Ruby Developer (contract),	Money Advice Service
 <https://moneyadviceservice.org.uk>
 
-* Ruby/Rails, MySQL, JavaScript/jQuery, RSpec/Cucumber
+* Ruby/Rails, MySQL, JavaScript/jQuery, RSpec/Cucumber, Puppet
 
 
 ### July 2013 - February 2014	Senior Ruby on Rails Developer (contract), Econsultancy
 <http://econsultancy.com>
 
-* Ruby/Rails, JavaScript/jQuery, MySQL/Redis/memcached/sphinx, RSpec/Cucumber
+* Ruby/Rails, JavaScript/jQuery, MySQL/Redis/memcached/sphinx, RSpec/Cucumber, Puppet
 
 
 ### April 2013 - July 2013	Software Engineer (contract), Global Personals
