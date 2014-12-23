@@ -10,7 +10,7 @@
 ### February 2014 - Present	Ruby Developer (contract),	Money Advice Service
 <https://moneyadviceservice.org.uk>
 
-* Ruby/Rails, MySQL, JavaScript/jQuery, RSpec/Cucumber, Puppet
+* Ruby/Rails/Sinatra, MySQL/PostgreSQL/Redis, JavaScript/jQuery, Rspec/Cucumber, Puppet/Ansible
 
 
 ### July 2013 - February 2014	Senior Ruby on Rails Developer (contract), Econsultancy
