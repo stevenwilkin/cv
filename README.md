@@ -58,7 +58,7 @@
 <http://bt.com/>
 
 
-* application development in a touch-screen mobile environment with embedded JavaScript
+* mobile application development on Linux with embedded JavaScript
 * SpiderMonkey interpreter, SQLite, exposed systems-level functionality with C plugins
 
 
