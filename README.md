@@ -3,7 +3,7 @@
 	email:  steve@stevenwilkin.com
 	web:    http://stevenwilkin.com
 	github: http://github.com/stevenwilkin
-	blog:   http://sickbiscuit.com/blog/
+	blog:   http://blog.stevenwilkin.com
 
 ## Experience
 
