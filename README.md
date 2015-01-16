@@ -7,7 +7,7 @@
 
 ## Experience
 
-### February 2014 - Present	Ruby Developer (contract),	Money Advice Service
+### February 2014 - December 2014	Ruby Developer (contract),	Money Advice Service
 <https://moneyadviceservice.org.uk>
 
 * Ruby/Rails/Sinatra, MySQL/PostgreSQL/Redis, JavaScript/jQuery, Rspec/Cucumber, Puppet/Ansible
