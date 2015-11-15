@@ -10,7 +10,7 @@
 ### February 2015 - Present	Senior Developer (contract),	HM Treasury
 <https://www.gov.uk/hm-treasury>
 
-* Ruby/Rails/Sinatra, PostgreSQL/Redis, RSpec/Cucumber
+* Ruby/Rails/Sinatra, Go, JavaScript/jQuery, PostgreSQL/Redis, RSpec/Cucumber
 
 ### February 2014 - December 2014	Ruby Developer (contract),	Money Advice Service
 <https://moneyadviceservice.org.uk>
