@@ -7,7 +7,12 @@
 
 ## Experience
 
-### February 2015 - Present	Senior Developer (contract),	HM Treasury
+### December 2015 - Present	Software Engineer (contract),	Canonical
+<http://canonical.com/>
+
+* Go, JavaScript
+
+### February 2015 - December 2015	Senior Developer (contract),	HM Treasury
 <https://www.gov.uk/hm-treasury>
 
 * Ruby/Rails/Sinatra, Go, JavaScript/jQuery, PostgreSQL/Redis, RSpec/Cucumber
