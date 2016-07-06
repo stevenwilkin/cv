@@ -10,7 +10,7 @@
 ### December 2015 - Present	Software Engineer (contract),	Canonical
 <http://canonical.com/>
 
-* Go, JavaScript
+* Go, JavaScript/Backbone/Marionette, Jasmine
 
 ### February 2015 - December 2015	Senior Developer (contract),	HM Treasury
 <https://www.gov.uk/hm-treasury>
