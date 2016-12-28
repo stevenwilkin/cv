@@ -7,7 +7,13 @@
 
 ## Experience
 
-### December 2015 - Present	Software Engineer (contract),	Canonical
+### August 2016 - Present	Ruby Developer (contract),	Armakuni
+<https://armakuni.com/>
+
+* Go, Ginkgo/Gomega, Ruby, Bash, BOSH, CloudFoundry, AWS, vSphere, Docker
+
+
+### December 2015 - July 2016	Software Engineer (contract),	Canonical
 <http://canonical.com/>
 
 * Go, JavaScript/Backbone/Marionette, Jasmine
