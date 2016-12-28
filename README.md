@@ -59,7 +59,6 @@
 ### January 2011 - September 2011	Developer (contract), iQ Content
 <http://iqcontent.com/>
 
-* business intelligence development on top of Google Analytics
 * Ruby, Rails, MySQL and JavaScript/jQuery/Highcharts
 * testing with RSpec and some statistical analysis with R
 
