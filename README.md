@@ -7,7 +7,7 @@
 
 ## Experience
 
-### August 2016 - Present	Ruby Developer (contract),	Armakuni
+### August 2016 - January 2017	Ruby Developer (contract),	Armakuni
 <https://armakuni.com/>
 
 * Go, Ginkgo/Gomega, Ruby, Bash, BOSH, CloudFoundry, AWS, vSphere, Docker
