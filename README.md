@@ -7,6 +7,23 @@
 
 ## Experience
 
+### November 2017 - current	Senior Ruby on Rails Developer (contract),	Outfront Media
+<https://outfrontmedia.com>
+
+* Ruby/Rails, Postgres/RabbitMQ, RSpec/MiniTest, Docker/Kubernetes/Spinnaker
+
+### July 2017 - October 2017	Engineer (contract),	Stowga
+<https://stowga.com>
+
+* Ruby/Rails, RSpec, Postgres, Salesforce
+
+
+### May 2017 - July 2017	Senior Ruby Developer (contract),	Funding Circle
+<https://fundingcircle.com>
+
+* Ruby/Rails/Grape, Postgres/Redis/RabbitMQ/ElasticSearch, JavaScript/AngularJS, RSpec/Cucumber/Jasmine, Docker
+
+
 ### August 2016 - January 2017	Ruby Developer (contract),	Armakuni
 <https://armakuni.com/>
 
